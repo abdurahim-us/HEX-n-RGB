@@ -1,0 +1,23 @@
+.inputHolder {
+    position: relative;
+}
+
+.converter {
+    position: relative;
+    top: 0px;
+    left: 42px;
+    padding: 0;
+    margin: 0;
+}
+
+.converter2 {
+    position: absolute;
+    top: 0px; 
+    left: 275px;
+    padding: 0;
+    margin: 0;
+}
+
+.converterInput {
+    padding: 0 5px 0 35px;
+}
